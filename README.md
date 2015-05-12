@@ -3,3 +3,5 @@ Simple finite state machine written in Scheme
 
 ## License
 Copyright © 2014 Dylan Gleason
+
+Distributed under the MIT license
